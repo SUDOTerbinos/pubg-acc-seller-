@@ -1,2 +1,2 @@
 # pubg-acc-seller-
-# pubg-acc-seller-
+it is for pubg account seller and buyer web page 
